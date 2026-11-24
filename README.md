@@ -12,7 +12,11 @@ And that's exactly what I decided to do! 😊
 
 ## ⭐ My Star Schema
 
-![My Power BI Star Schema](dimensional_modelling_and_transformation_DIOlab.PNG)
+<p align="center">
+  <img src="dimensional_modelling_and_transformation_DIOlab.PNG"
+       alt="Dimensional modelling showing one fact table and three dimensional tables"
+       width="50%">
+</p>
 
 *My final Power BI model, with `fact_sales` at the centre and three connected tables.*
 
