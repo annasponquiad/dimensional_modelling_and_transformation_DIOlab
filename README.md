@@ -15,7 +15,7 @@ And that's exactly what I decided to do! 😊
 <p align="center">
   <img src="dimensional_modelling_and_transformation_DIOlab.PNG"
        alt="Dimensional modelling showing one fact table and three dimensional tables"
-       width="50%">
+       width="75%">
 </p>
 
 *My final Power BI model, with `fact_sales` at the centre and three connected tables.*
